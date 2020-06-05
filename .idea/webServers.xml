@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="abe05570-be3a-4370-b59c-6ebf3a84d5bd" name="MainSite" url="http://mainsite.kuangjux.top">
+        <fileTransfer accessType="SFTP" host="123.57.16.21" port="22" sshConfigId="1af7762d-dd08-4247-98bf-e4dcb99ea208" sshConfig="root@123.57.16.21:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

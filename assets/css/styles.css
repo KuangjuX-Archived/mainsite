@@ -1,0 +1,30 @@
+
+a.project:hover{
+    background-color: black;
+}
+
+a.project{
+    outline: none;
+    color: slategrey;
+}
+
+div.blog{
+
+}
+
+img.avatar{
+    border-radius: 30%;
+    width: 200px;
+    height: 350px;
+    object-fit: cover;
+}
+
+a.blog{
+    text-decoration: none;
+    outline: none;
+    color: slategrey;
+}
+a.blog:hover{
+    background-color: black;
+}
+

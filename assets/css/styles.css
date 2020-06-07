@@ -1,16 +1,25 @@
+div.myselfIcon{
+    width: 15.5px;
+    height: 36px;
+    background-image: url("../../images/blog.png");
+    background-repeat: no-repeat;
+    object-fit: cover;
+}
+
 
 a.project:hover{
     background-color: black;
 }
 
 a.project{
+    all:unset;
     outline: none;
-    color: slategrey;
+   /* color: slategrey;*/
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
 }
 
-div.blog{
-
-}
 
 img.avatar{
     border-radius: 30%;
@@ -20,12 +29,17 @@ img.avatar{
 }
 
 a.blog{
+    all:unset;
+    text-emphasis-style: none;
     text-decoration: none;
     outline: none;
-    color: slategrey;
+    /*color: slategrey;*/
+    color: white;
+    font-weight: bold;
 }
 a.blog:hover{
     background-color: black;
+    cursor: pointer;
 }
 
 div.version{

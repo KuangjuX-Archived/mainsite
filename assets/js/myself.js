@@ -5,3 +5,4 @@ function transfer(url) {
         window.location.href=url;
     },500);
 }
+
